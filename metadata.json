@@ -1,0 +1,5 @@
+{
+  "name": "RH Dashboard",
+  "description": "A comprehensive interactive dashboard for HR reporting, tracking recruitment metrics across locations (SMA, PFU, SCS), and managing weekly priorities.",
+  "requestFramePermissions": []
+}
